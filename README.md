@@ -188,7 +188,3 @@ dependencies { compile 'com.github.MZCretin:WheelSurfDemo:v1.0.0' }
 ----------------------------
 
 请把Demo clone下来看更加具体的使用方式。
-
-使用过程中如果有什么问题或者建议 欢迎在issue中提出来或者直接联系我 792075058 嘿嘿
-
-PS:如果显示异常，欢迎移步 [Android撸一个转盘抽奖](http://blog.csdn.net/u010998327/article/details/78920351)
